@@ -1,0 +1,24 @@
+{
+  "appName": "Video Merkezi",
+  "home": {
+    "title": "Video Merkezi",
+    "subtitle": "Bir platform seçin"
+  },
+  "videos": {
+    "title": "Videolar",
+    "noVideos": "Mevcut video yok"
+  },
+  "player": {
+    "error": "Video oynatılırken hata oluştu"
+  },
+  "platforms": {
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "messenger": "Messenger",
+    "instagram": "Instagram",
+    "mobileBanking": "Mobil Bankacılık",
+    "playStore": "Play Store",
+    "appStore": "App Store"
+  }
+}

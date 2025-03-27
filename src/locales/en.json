@@ -1,0 +1,24 @@
+{
+  "appName": "VideoHub",
+  "home": {
+    "title": "Video Hub",
+    "subtitle": "Choose a platform"
+  },
+  "videos": {
+    "title": "Videos",
+    "noVideos": "No videos available"
+  },
+  "player": {
+    "error": "Error playing video"
+  },
+  "platforms": {
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "messenger": "Messenger",
+    "instagram": "Instagram",
+    "mobileBanking": "Mobile Banking",
+    "playStore": "Play Store",
+    "appStore": "App Store"
+  }
+}
