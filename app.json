@@ -31,11 +31,10 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "react-native-safe-area-context",
       [
-        "expo-av",
+        "expo-camera",
         {
-          "microphonePermission": "Allow VideoHub to access your microphone"
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
         }
       ]
     ]

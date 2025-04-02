@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Text, View, StyleSheet, ActivityIndicator } from "react-native";
-import { SafeAreaProvider } from "react-native-safe-area-context";
+
 import { StatusBar } from "expo-status-bar";
 import * as Font from "expo-font";
 import { FontAwesome } from "@expo/vector-icons";
@@ -44,10 +44,12 @@ export default function App() {
   }
 
   return (
-    <SafeAreaProvider>
+    // <SafeAreaProvider>
+    <>
       <StatusBar style="auto" />
       <AppNavigator />
-    </SafeAreaProvider>
+    </>
+    // </SafeAreaProvider>
   );
 }
 
